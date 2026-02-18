@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.square {
+    width: 150px;
+    height: 150px;
+    background-color: #E6E6FA; /* Lavender */
+    display: inline-block;
+    margin: 20px;
+}
